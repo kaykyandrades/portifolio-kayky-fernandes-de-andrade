@@ -36,10 +36,10 @@ Atualmente cursando o 1° semestre de Engenharia de Software na Universiade de S
  
 ### 📂 Portfólio de Projetos
  
-#### 🗃️ Modelagem de Banco de Dados
+#### 🗃️ Programação de Computadores
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **Sistema de Gestão Escolar** | Modelagem ER e Scripts SQL para uma instituição de ensino. | [Ver Projeto](./projeto-banco-dados/) |
+| **Algoritimo de auditoria de dados** | Um programa que analisa a consistência de dados finamceiros, utilizando ecopo global/local oara parâmetros de segurança e lógica condicional para detecção de anomalias. | [Ver Projeto](./projeto-algoritomo-de-auditoria-de-dados/) |
  
 #### 🤖 Inteligência Artificial
 | Projeto | Descrição | Link |
